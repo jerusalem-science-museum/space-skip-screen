@@ -37,7 +37,7 @@ IRsend mySender;
 
 bool first_entry = true;
 uint32_t timer_player = 0;
-const uint32_t TIME_TO_PLAY = 60000;
+const uint32_t TIME_TO_PLAY = 84000;
 const int BOUNCE_TIME = 100;// ms time waiting befour re-enable pushbuton check
 bool check;
 
